@@ -28,7 +28,7 @@ Sequence Number : `0` <br>
 Flags : `SYN` (Proof the segment identifies as a SYN segment)
 <br>
 Video penjelasan: <br>
-<video src="./assets/q3-syn.mp4" width="640" height="320" controls></video>
+[![Watch the video](./assets/q3-syn-flag.png)](https://raw.githubusercontent.com/owsis/tcp-analyzing/refs/heads/main/uas-s2-2425/assets/q3-syn.mp4)
 
 
 ## Question 4
