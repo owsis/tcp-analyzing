@@ -27,9 +27,9 @@ Attention **red square** on the image above. <br>
 Sequence Number : `0` <br>
 Flags : `SYN` (Proof the segment identifies as a SYN segment)
 <br>
+<br>
 Video penjelasan: <br>
-[![Watch the video](./assets/q3-syn-flag.png)](https://raw.githubusercontent.com/owsis/tcp-analyzing/refs/heads/main/uas-s2-2425/assets/q3-syn.mp4)
-
+[![q4-syn](https://res.cloudinary.com/marcomontalbano/image/upload/v1733327711/video_to_markdown/images/video--959727479538ee9f5fa1adefa5aa097d-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://raw.githubusercontent.com/owsis/tcp-analyzing/refs/heads/main/uas-s2-2425/assets/q3-syn.mp4 "q4-syn")
 
 ## Question 4
 What is the sequence number of the SYNACK segment sent by gaia.cs.umass.edu to the client computer in reply to the SYN? What is the value of the ACKnowledgement field in the SYNACK segment? How did gaia.cs.umass.edu determine that value? What is it in the segment that identifies the segment as a SYNACK segment? (Attach the screenshot of your Wireshark's display)
